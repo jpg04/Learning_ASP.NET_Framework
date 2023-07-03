@@ -1,0 +1,11 @@
+C:\Users\JaydeepGodase\Documents\FCT-Learning\Learning_ASP.NET_Framework\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe.config
+C:\Users\JaydeepGodase\Documents\FCT-Learning\Learning_ASP.NET_Framework\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe
+C:\Users\JaydeepGodase\Documents\FCT-Learning\Learning_ASP.NET_Framework\DigitalClock\DigitalClock\bin\Debug\DigitalClock.pdb
+C:\Users\JaydeepGodase\Documents\FCT-Learning\Learning_ASP.NET_Framework\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.AssemblyReference.cache
+C:\Users\JaydeepGodase\Documents\FCT-Learning\Learning_ASP.NET_Framework\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.SuggestedBindingRedirects.cache
+C:\Users\JaydeepGodase\Documents\FCT-Learning\Learning_ASP.NET_Framework\DigitalClock\DigitalClock\obj\Debug\DigitalClock.Form1.resources
+C:\Users\JaydeepGodase\Documents\FCT-Learning\Learning_ASP.NET_Framework\DigitalClock\DigitalClock\obj\Debug\DigitalClock.Properties.Resources.resources
+C:\Users\JaydeepGodase\Documents\FCT-Learning\Learning_ASP.NET_Framework\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.GenerateResource.cache
+C:\Users\JaydeepGodase\Documents\FCT-Learning\Learning_ASP.NET_Framework\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.CoreCompileInputs.cache
+C:\Users\JaydeepGodase\Documents\FCT-Learning\Learning_ASP.NET_Framework\DigitalClock\DigitalClock\obj\Debug\DigitalClock.exe
+C:\Users\JaydeepGodase\Documents\FCT-Learning\Learning_ASP.NET_Framework\DigitalClock\DigitalClock\obj\Debug\DigitalClock.pdb
