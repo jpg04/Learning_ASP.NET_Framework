@@ -10,9 +10,19 @@ namespace LearningWebForms
     {
         public static void RegisterRoutes(RouteCollection routes)
         {
-            var settings = new FriendlyUrlSettings();
-            settings.AutoRedirectMode = RedirectMode.Permanent;
-            routes.EnableFriendlyUrls(settings);
+            routes.MapPageRoute("defaultRoute", "", "~/WebForms/Default.aspx");
+
+            routes.MapPageRoute("homeRoute", "home/page", "~/WebForms/Default.aspx");
+            routes.MapPageRoute("aboutRoute", "about", "~/WebForms/About.aspx");
+            routes.MapPageRoute("contactRoute", "contact", "~/WebForms/Contact.aspx");
+            routes.MapPageRoute("editRoute", "edit/{id}", "~/WebForms/Edit.aspx");
+            routes.MapPageRoute("productsPageRoute", "products", "~/WebForms/ProductsPage.aspx");
+            routes.MapPageRoute("signUpRoute", "register", "~/WebForms/SignUp.aspx");
+            routes.MapPageRoute("withMasterRoute", "withMaster", "~/WebForms/WithMaster.aspx");
+            routes.MapPageRoute("withOutMasterRoute", "withOutMaster", "~/WebForms/WithOutMaster.aspx");
+
+            routes.MapPageRoute("errorRoute", "{*.a spx}", "~/WebForms/Error.aspx");
+            routes.RouteExistingFiles=true;
         }
     }
 }

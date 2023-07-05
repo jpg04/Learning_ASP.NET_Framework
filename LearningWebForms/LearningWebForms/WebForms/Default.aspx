@@ -2,7 +2,15 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
-    <link href="../MyCSS/default.css" rel="stylesheet" />
+    <%--<link href="../MyCSS/default.css" rel="stylesheet" />--%>
+
+    <style>
+        body
+        {
+             background-color:black;
+             color:white
+        }
+    </style>
 
     <main>
         <section class="row" aria-labelledby="aspnetTitle">

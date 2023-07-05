@@ -4,8 +4,10 @@
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <style>
-        body{
-            background-color:darkgrey;
+        body
+        {
+             background-color:black;
+             color:white
         }
     </style>
     <div class="d-flex flex-wrap">

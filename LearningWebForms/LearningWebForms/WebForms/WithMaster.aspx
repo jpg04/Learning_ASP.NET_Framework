@@ -1,6 +1,12 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="WithMaster.aspx.cs" Inherits="LearningWebForms.WithMaster" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
-
+    <style>
+        body
+        {
+             background-color:black;
+             color:white
+        }
+    </style>
     <br />
     <asp:TextBox ID="fname" runat="server" placeholder="Enter Your First Name"></asp:TextBox>
     <br />

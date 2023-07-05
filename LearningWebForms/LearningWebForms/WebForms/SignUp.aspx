@@ -1,5 +1,14 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="SignUp.aspx.cs" Inherits="LearningWebForms.WebForms.SignUp" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
+
+    <style>
+        body
+        {
+             background-color:black;
+             color:white
+        }
+    </style>
+
     <table style="width: 100%;">
     <tr>
         <td style="width: 187px">
