@@ -10,3 +10,4 @@
         public ICollection<BlogPost> BlogPosts { get; set; }
     }
 }
+     
