@@ -4,7 +4,8 @@ namespace Blogger.Controllers
 {
     public class AdminTagController : Controller
     {
-        public IActionResult Index()
+        [HttpGet]
+        public IActionResult Add()
         {
             return View();
         }
