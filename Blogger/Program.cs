@@ -7,6 +7,8 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<BloggerDbContext>(options => 
 options.UseSqlServer(builder.Configuration.GetConnectionString("BloggerConnectionString")));
 
+
+var app = builder.Build();
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
